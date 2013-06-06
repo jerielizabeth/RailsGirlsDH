@@ -305,6 +305,9 @@ a.buttons:hover {
 	text-decoration: none;
 }
 
+.download {
+  display: none;
+}
 
 /* Section - for main page content */
 
